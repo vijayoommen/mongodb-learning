@@ -18,7 +18,7 @@
     <PackageReference Include="microsoft.extensions.dependencyinjection" Version="3.1.1" />
     <PackageReference Include="microsoft.extensions.logging" Version="3.1.1" />
     <PackageReference Include="microsoft.extensions.logging.console" Version="3.1.1" />
-    <PackageReference Include="mongodb.driver" Version="2.10.1" />
+    <PackageReference Include="mongodb.driver" Version="2.19.0" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
   </ItemGroup>
 
